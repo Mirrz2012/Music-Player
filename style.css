@@ -5,7 +5,7 @@
 }
 
 body {
-  background: linear-gradient(0deg, #f7f7f7 24%, #fcdddd 92%);
+  background: linear-gradient(0deg, #e19327 24%, #fcdddd 92%);
   font-family: 'Lato', sans-serif;
   margin: 0;
   height: 100vh;
@@ -18,6 +18,8 @@ body {
 h1 {
   margin-bottom: 40px;
   margin-left: 100px;
+  color: #cb8708;
+  font-family: 'Lato', sans-serif;
 }
 
 .music-container {
@@ -85,7 +87,7 @@ h1 {
 }
 
 .progress {
-  background: #fe8daa;
+  background: #0c0b0b;
   height: 100%;
   width: 0%;
   border-radius: 5px;
